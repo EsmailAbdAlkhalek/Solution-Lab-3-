@@ -1,0 +1,9 @@
+
+
+
+letter	 (g)
+
+number	 (5)
+
+
+color (black)   
